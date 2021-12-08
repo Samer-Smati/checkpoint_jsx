@@ -7,7 +7,7 @@ export default function NavBar() {
         <div>
             <Navbar  bg="primary" variant="dark" fixed="top"  >
             <div className="container-fluid">
-                <Navbar.Brand href="#home">Navbar with text</Navbar.Brand>
+                <Navbar.Brand href="#home">CheckpointJsx</Navbar.Brand>
                     <Nav className="me-auto">
                     <Nav.Link href="#imageInSrc">imageInSrc</Nav.Link>
                     <Nav.Link href="#imageInPublic">imageInPublic</Nav.Link>
